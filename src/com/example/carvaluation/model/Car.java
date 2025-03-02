@@ -1,7 +1,6 @@
 package com.example.carvaluation.model;
 
 import lombok.*;
-
 import java.util.Objects;
 
 @NoArgsConstructor
